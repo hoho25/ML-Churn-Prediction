@@ -13,7 +13,7 @@ You may fill up the [feedback form](https://forms.gle/4gnRvjkjaiw7KG1d9) if you 
 **Machine Learning Type:** Supervised Learning for Classification\
 **Main Library:** Scikit-Learn (sklearn)
 
-**Content:**\
+## **Content:**
 **Part 1: Import Libraries**\
 **Part 2: Import Data & Check out Data**\
 **Part 3: EDA: Data Preprocessing**
